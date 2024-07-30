@@ -1,0 +1,7 @@
+**/__pycache__
+**/dataset/
+**/.cache
+**/diffusers
+**/bert-embedding
+# **/DiT
+**/sd-naruto-model-lora-sdxl
